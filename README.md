@@ -1,2 +1,2 @@
 It is a simple News App built using ReactJS. It provides latest news from various categories such as sports, science, Entertainment, etc.
-![alt text](https://github.com/logishian/NewsApp/blob/main/riyal.png)
+![Riyal News App](https://github.com/logishian/Riyal-NewsApp/blob/main/riyal.png)
